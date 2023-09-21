@@ -20,7 +20,7 @@ body {
   background-color: #000; /* Fondo negro para toda la página */
 
   /* Agrega una animación de pulsación */
-  animation: pulsate 2s infinite;
+  animation: pulsate 6s infinite;
 }
 
 .text-above,
